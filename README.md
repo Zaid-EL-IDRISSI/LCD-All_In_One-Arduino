@@ -51,3 +51,8 @@ Upload the **V2 code** to your Arduino using the Arduino IDE. Connect the hardwa
 - This project is **not professional-grade**: the code is functional but messy and can be optimized.  
 - V2 is an improvement over V1, especially for calculator functions and cleaner display output.  
 - Use this as a learning reference or for hobby projects.
+
+---
+
+## License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
