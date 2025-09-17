@@ -17,6 +17,8 @@ An **Arduino All-in-One project** combining a **Calculator**, a **Digital Clock 
 - Relay (optional for control)  
 
 ## 🚀 Getting Started
-1. Clone this repository:  
+ Clone this repository:  
    ```bash
    git clone https://github.com/YourUsername/LCD-All_In_One-Arduino.git
+  ```
+## 📷 Project Preview
