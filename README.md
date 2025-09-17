@@ -1,4 +1,6 @@
 # LCD-All_In_One-Arduino  
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An **Arduino All-in-One project** combining a **Calculator**, a **Digital Clock (Horloge)**, and a **Temperature Reader**, all displayed on an LCD with keypad interaction.  
 
