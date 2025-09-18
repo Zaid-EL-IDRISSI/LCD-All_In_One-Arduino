@@ -44,6 +44,14 @@ Upload the **V2 code** to your Arduino using the Arduino IDE. Connect the hardwa
 
 ---
 
+## 🔗 Tinkercad Simulation
+
+You can view and test the full project circuit here:
+
+👉 [LCD-All_In_One-Arduino on Tinkercad](https://www.tinkercad.com/things/in6A9tMG2Tz-lcd-allinone-arduino?sharecode=bWF5THMAor9IB7M1-Rq32qXYmbLcSQwJuVBg64mSZEA)
+
+---
+
 ## 📷 Project Preview
 ![Circuit image](/Circuit_image.png)
 
